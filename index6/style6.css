@@ -1,0 +1,121 @@
+body {
+background-color:black;
+height:auto;
+}
+
+
+
+.first {
+background-image: url("top.gif");
+color:maroon;
+width: 1000px;
+height: 150px;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+
+.second {
+background-color:#18395e; 
+text-align:center;
+width: 960px;
+height:10px;
+padding: 20px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.button {
+background-color:#18395e;
+color: white;
+padding: 10px 23px;
+text-align: center;
+text-decoration: none;
+display:inline-block;
+font-size: 20px;
+margin: 4px 2px;
+cursor: pointer;
+}
+
+
+
+.third {
+background-color: #404086; 
+color:#73b8c8;
+width: 960px;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+padding:20px;
+}
+
+.ttable {
+table-align: center;
+text-align: left;
+}
+.ttleft {
+width:550px;
+height:auto;
+background-color: #404086;
+}
+.ttright {
+width:450px;
+height:auto;
+background-color: #404086;
+}
+.pttable {
+color: black;
+}
+
+.table {
+table-align: center;
+text-align: left;
+}
+.tleft {
+width:450px;
+height:auto;
+background-color: #404086;
+}
+.tright {
+width:550px;
+height:auto;
+background-color: #404086;
+}
+.ptable {
+color: black;
+}
+
+.rtable {
+table-align: center;
+text-align: left;
+}
+.rtone {
+width:200px;
+height:auto;
+background-color: #5740dd;
+}
+.prtable {
+color:#73b8c8;
+}
+
+
+
+.fourth {
+background-color: #003400; 
+width: 980px;
+height: 17px;
+padding: 10px;
+margin-left: auto;
+margin-right: auto;
+color: black;
+text-align:center;
+}
+
+p.special{
+background-color: #000;
+text-align: center;
+}
+
+
+
